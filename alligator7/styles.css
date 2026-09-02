@@ -36,15 +36,15 @@ body {
 
 .tape {
   display: flex;
-  gap: 1.75rem;
-  overflow: hidden;
-  white-space: nowrap;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.45rem 1.1rem;
   border-bottom: 1px solid var(--line);
   background: #050c08;
   color: var(--mute);
-  font-size: 0.68rem;
-  letter-spacing: 0.18em;
-  padding: 0.55rem 0.9rem;
+  font-size: 0.62rem;
+  letter-spacing: 0.16em;
+  padding: 0.55rem 0.75rem;
 }
 
 .tape span + span::before {
@@ -156,12 +156,16 @@ footer {
   .tape {
     grid-column: 1;
     grid-row: 1 / -1;
+    flex-wrap: nowrap;
     writing-mode: vertical-rl;
     transform: rotate(180deg);
     justify-content: center;
+    gap: 1.75rem;
+    white-space: nowrap;
     border-bottom: 0;
     border-right: 1px solid var(--line);
     padding: 1.4rem 0.55rem;
+    font-size: 0.68rem;
   }
 
   .mark {

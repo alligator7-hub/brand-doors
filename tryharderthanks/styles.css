@@ -34,8 +34,8 @@ body {
 .stamp {
   margin: 0.85rem 1rem 0;
   font-family: "Anton", Impact, sans-serif;
-  font-size: clamp(3.4rem, 22vw, 9rem);
-  line-height: 0.78;
+  font-size: clamp(3.6rem, 20vw, 8.4rem);
+  line-height: 0.8;
   letter-spacing: -0.02em;
   text-transform: uppercase;
 }
