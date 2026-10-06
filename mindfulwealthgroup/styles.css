@@ -111,3 +111,24 @@ nav a:hover {
   color: #8a8173;
   font-size: 0.75rem;
 }
+
+.bullets {
+  margin: 0 0 1.5rem;
+  padding-left: 1.15rem;
+  max-width: 40ch;
+  color: #4a453c;
+  font-size: 1.02rem;
+  line-height: 1.55;
+}
+
+.bullets li {
+  margin: 0 0 0.65rem;
+}
+
+.cta-note {
+  margin: 0.85rem 0 0;
+  max-width: 36ch;
+  color: #8a8173;
+  font-size: 0.86rem;
+  line-height: 1.45;
+}
