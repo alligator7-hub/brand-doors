@@ -22,7 +22,7 @@ Quiet index (names as links only): https://alligator7-hub.github.io/brand-doors/
 - **Mindful Wealth Group** — Instagram `@mindfulwealthgroup`. No inbox on this door. Supporting: YouTube `UCgpTk58s8POkRvd8Z_JnYBQ`. TikTok `@mindfullwealthgroup` (double L, as recorded) is not linked on the door. Not advice. No AUM. No product. The public door says "Calm money", not the firm name.
 - **Creative Faith** — Instagram `@creativefaithinnovations`. See the work / follow. Supporting: YouTube `UCvzN-wSuF-MYHrF6g1cDWpA`. No store. No buy links. Art is not reproduced or altered here.
 
-Draft Instagram and Facebook bios for these four doors, plus Owl Offers, are in `docs/BIO-UNLOCK-SHEETS.md`. That file is draft copy. It is not a live profile edit. The Pages workflow does not publish `docs/`.
+Draft bios for these four doors, plus Owl Offers, are in `docs/BIO-UNLOCK-SHEETS.md`. Owl Offers, Creative Faith, and Alligator7 also have a per-network card (YouTube, and TikTok where a handle is already on record). That file is draft copy. It is not a live profile edit. The Pages workflow does not publish `docs/`.
 
 ## Enable Pages
 

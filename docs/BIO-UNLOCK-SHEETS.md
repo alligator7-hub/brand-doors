@@ -8,7 +8,9 @@ Draft paste text only. Nothing in this file is a live profile edit.
 
 **Mobile app** means the profile editor has to be opened in the phone app because the desktop session cannot reach the page. It does not mean an App Store link. None of these website fields are app links.
 
-Counts: Instagram display name 30, Instagram bio 150, Facebook intro 255. The website field is the URL itself. These networks do not take a separate link label.
+Counts: Instagram display name 30, Instagram bio 150, TikTok bio 80, Facebook intro 255, YouTube description 1000. The website field is the URL itself. These networks do not take a separate link label.
+
+Owl Offers, Creative Faith, and Alligator7 have a per-network card. TryHarderThanks and Mindful Wealth Group stay on the first-pass card. A card is still not a paste order.
 
 ## Which cards are blocked
 
@@ -58,7 +60,7 @@ The owned door is `https://alligator7-hub.github.io/owl-offers-door/` in `alliga
 
 Instagram and TikTok lines below are the 2026-09-14 bio SET, copied, not rewritten. Display name was not locked in that packet. The draft display name matches the door's site name.
 
-Handles on record: Instagram `@owloffers`, Threads `@owloffers`, TikTok `@owl.offers`.
+Handles on record: Instagram `@owloffers`, Threads `@owloffers`, TikTok `@owl.offers`, YouTube `@owloffers` / `UCcRA06_69nWowmwo1DmNtfg`.
 
 Display name (10/30):
 
@@ -66,13 +68,13 @@ Display name (10/30):
 Owl Offers
 ```
 
-Website field (Instagram, Threads, TikTok, YouTube, and Facebook if it is edited):
+Website field (Instagram, Threads, YouTube, Facebook if that page is edited, and TikTok only if the editor has a website field):
 
 ```
 https://alligator7-hub.github.io/owl-offers-door/
 ```
 
-Instagram bio (104/150). Same string for Threads, YouTube description, and Facebook intro:
+Instagram bio (104/150). Same string for Threads, the YouTube description, and the Facebook intro:
 
 ```
 The shop looks ready. The homeowner actually calls. Copy, pages, follow-up for local service shops. PNW.
@@ -84,7 +86,15 @@ TikTok bio (56/80). Use this one on TikTok, including where an older faith-lane 
 The shop looks ready. The homeowner actually calls. PNW.
 ```
 
-Facebook: draft the intro above, then skip the edit if the page is still login-walled. If desktop cannot open it, use the Facebook mobile app. That edit still needs its own named k.
+### Per-network card
+
+| Network | On record | Paste | Hold |
+| --- | --- | --- | --- |
+| Instagram | `@owloffers` | Website field and the 104-character bio | Named k. The 2026-09-14 SET is not fired. |
+| Threads | `@owloffers` | Same website and the same 104-character bio, if Threads has its own editor. If it does not, it inherits Instagram. | Same named k. Thread posts are not in this sheet. |
+| TikTok | `@owl.offers` | The 56-character bio. Website field only if the editor has one. | Replace the faith-lane bio entirely. Named k. |
+| YouTube | `@owloffers`, channel `UCcRA06_69nWowmwo1DmNtfg` | Website field and the 104-character string as the channel description (104/1000) | Replaces the video-production pitch. Named k. |
+| Facebook | No page id in this file | The 104-character string as the intro, plus the website field, if the page opens | Skip if login-walled. Phone app only in that case. That edit still needs its own named k. |
 
 Leave off every bio: the first-step price, the merch store domain, city names, Kit, Stripe, and a faith line.
 
@@ -128,9 +138,13 @@ Leave off the bio: the parked firm name, a product, returns, an inbox, and advic
 
 ## Creative Faith
 
+No locked bio SET is on record. The strings below are drafted from the live door sentences. They are not a paste order.
+
 Door: `https://alligator7-hub.github.io/brand-doors/creativefaith/`
 
-Handle already on the door: `@creativefaithinnovations`.
+Handle already on the door: Instagram `@creativefaithinnovations`. YouTube channel on the door: `UCvzN-wSuF-MYHrF6g1cDWpA`.
+
+No TikTok handle, no Threads handle, and no Facebook page handle are on the door or the 2026-09 hall. Do not invent one, and do not open an account from this sheet.
 
 Display name (26/30):
 
@@ -138,7 +152,7 @@ Display name (26/30):
 Creative Faith Innovations
 ```
 
-Website field:
+Website field (Instagram and YouTube):
 
 ```
 https://alligator7-hub.github.io/brand-doors/creativefaith/
@@ -150,21 +164,41 @@ Instagram bio (76/150):
 Scripture, made visible. The art stays as it is. This door does not sell it.
 ```
 
-Facebook intro (113/255):
+YouTube description (119/1000). This is the door sentence:
+
+```
+Scripture, made visible. The art stays as it is. This door does not sell it — follow to see what has already been made.
+```
+
+Facebook intro (113/255). Draft text only. There is no page on record to paste it onto:
 
 ```
 Scripture, made visible. The art stays as it is. Follow to see what has already been made. No store on this door.
 ```
 
+### Per-network card
+
+| Network | On record | Paste | Hold |
+| --- | --- | --- | --- |
+| Instagram | `@creativefaithinnovations` | Display name, website field, 76-character bio | Named k |
+| YouTube | `UCvzN-wSuF-MYHrF6g1cDWpA` | Website field and the 119-character description | Named k. No store link. |
+| TikTok | No handle on record | Nothing | Do not invent a handle |
+| Threads | No handle on record | Nothing | Do not invent a handle |
+| Facebook | No page handle on record | The 113-character intro stays unused until a page is named | Do not create a page from this sheet |
+
 Leave off the bio: a store, a price, and a buy link. The art is not reproduced on the door.
 
 ## Alligator7
 
+No locked bio SET is on record. The strings below are drafted from the live door sentences. They are the draft replacement, not a paste order.
+
 Door: `https://alligator7-hub.github.io/brand-doors/alligator7/`
 
-Handles already on the door: Instagram `@alligator712`, TikTok `@alligator777777777`.
+Handles already on the door: Instagram `@alligator712`, TikTok `@alligator777777777`, YouTube `UCKOJdD9WkZSSrFBQMr-6TzQ`.
 
-A 2026-09-02 hall note said the live Instagram website was still a Linktree URL and the live YouTube website was still the merch store. Leave those live fields alone until a named k. The strings below are the draft replacement, not a paste order.
+A 2026-09-02 hall note said the live Instagram website was still a Linktree URL and the live YouTube website was still the merch store. Leave those live fields alone until a named k.
+
+No Threads handle and no Facebook page handle are on the door or that hall. Do not invent one.
 
 Display name (10/30):
 
@@ -172,22 +206,38 @@ Display name (10/30):
 Alligator7
 ```
 
-Website field:
+Website field (Instagram, TikTok, and YouTube, after the named k):
 
 ```
 https://alligator7-hub.github.io/brand-doors/alligator7/
 ```
 
-Instagram bio (79/150):
+Instagram bio (79/150). The same string fits TikTok (79/80):
 
 ```
 Short lessons on money, markets, and AI. Education, not advice. No trade calls.
 ```
 
-Facebook intro (119/255):
+YouTube description (117/1000). This is the door sentence:
+
+```
+Short lessons on money, markets, and AI. Education, not advice. No trade calls. No income stories. Get the next clip.
+```
+
+Facebook intro (119/255). Draft text only. There is no page on record to paste it onto:
 
 ```
 Short lessons on money, markets, and AI. Education, not advice. No trade calls. No income stories. Watch the next clip.
 ```
+
+### Per-network card
+
+| Network | On record | Paste | Hold |
+| --- | --- | --- | --- |
+| Instagram | `@alligator712` | Display name, door URL, 79-character bio | Named k. Leave the live Linktree website until then. |
+| TikTok | `@alligator777777777` | Door URL if the editor has a website field, and the same 79-character bio | Named k |
+| YouTube | `UCKOJdD9WkZSSrFBQMr-6TzQ` | Door URL and the 117-character description | Named k. Leave the live merch-store website until then. |
+| Threads | No handle on record | Nothing | Do not invent a handle |
+| Facebook | No page handle on record | The 119-character intro stays unused until a page is named | Do not create a page from this sheet |
 
 Leave off the bio: trade calls, income stories, advice, Linktree, and the merch store.

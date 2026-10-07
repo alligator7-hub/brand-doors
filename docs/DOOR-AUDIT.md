@@ -41,3 +41,13 @@ Live home `https://alligator7-hub.github.io/owl-offers-door/` returned HTTP 200 
 ## Locks re-checked on this branch
 
 Visitor HTML still has no buy link, no first-step price, no merch-store hostname, and no city names. Owl is named only in `README.md` and `docs/`, not on the four door pages. Mindful Wealth's public title and share card say "Calm money", not the firm name. The quiet index still lists "Mindful Wealth Group" as the noindex map label. That split is unchanged.
+
+## Deepen — 2026-10-07
+
+`docs/BIO-UNLOCK-SHEETS.md` already had a first-pass card for Owl Offers, Creative Faith, and Alligator7. This pass adds the per-network card that was missing: YouTube description where a channel is on record, TikTok bio where a handle is on record, and an explicit empty row where no handle is on record.
+
+- Owl's 104-character and 56-character lines are unchanged. TikTok still says to set the website only if that field exists, and to replace the faith-lane bio. YouTube still uses the 104-character line and names the public channel `UCcRA06_69nWowmwo1DmNtfg`. Thread posts are not in the sheet.
+- Creative Faith gained a YouTube description taken from the door sentence. TikTok, Threads, and Facebook have no handle on record, so those rows paste nothing.
+- Alligator7 gained a TikTok line (the 79-character Instagram draft fits the 80-character cap) and a YouTube description taken from the door sentence. The live Linktree website and the live merch-store website stay until a named k. Threads and Facebook have no handle on record.
+
+No profile was edited. No post was scheduled. No Metricool id, page id, mailbox password, or token was added.
