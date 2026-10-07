@@ -33,6 +33,7 @@ jobs:
             --exclude '.github' \
             --exclude '_site' \
             --exclude '.gitignore' \
+            --exclude 'docs' \
             ./ _site/
           touch _site/.nojekyll
       - name: Upload artifact
